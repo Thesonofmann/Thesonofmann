@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Thesonofmann
-- 👀 I’m interested in finding a mentor
+- 👀 I’m interested in finding someone i could work with and learn from
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate/ gain experience in open source 
+- 💞️ I’m looking to collaborate/ gain experience
 - 📫 How to reach me @thesonofman
 
 <!---
